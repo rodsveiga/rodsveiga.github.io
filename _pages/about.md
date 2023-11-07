@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>École Polytechnique Fédérale de Lausanne (EPFL)</a>. Lab for Statistical Mechanics of Inference in Large Systems (SMILS).
+subtitle: Postdoctoral researcher. Lab for Statistical Mechanics of Inference in Large Systems (SMILS). <a href='#'>École Polytechnique Fédérale de Lausanne (EPFL)</a>.
 
 profile:
   align: right
