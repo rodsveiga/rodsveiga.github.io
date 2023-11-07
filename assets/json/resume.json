@@ -33,21 +33,48 @@
   ],
   "work": [
     {
-      "name": "École Polytechnique Fédérale de Lausanne (EPFL)",
+      "name": "École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland",
       "position": "Postdoctoral researcher",
       "url": "",
-      "startDate": "2022-10",
+      "startDate": "2022",
       "endDate": "",
       "summary": "SMILS - Lab for Statistical Mechanics of Inference in Large Systems. Supervisor: Prof. Nicolas Macris",
       "highlights": [ ]
     },
     {
-      "name": "École Polytechnique Fédérale de Lausanne (EPFL)",
-      "position": "PhD exchange internship",
+      "name": "École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland",
+      "position": "Doctoral exchange internship",
       "url": "",
-      "startDate": "2021-02",
-      "endDate": "2022-01",
+      "startDate": "2021",
+      "endDate": "2022",
       "summary": "IdePHICS - Information, Learning and Physics Lab. Supervisor: Prof. Florent Krzakala",
+      "highlights": [ ]
+    },
+    {
+      "name": "University of São Paulo, São Paulo, Brazil",
+      "position": "Doctoral student",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2022",
+      "summary": "Statistical Physics Analysis of Machine Learning Models. Supervisor: Prof. Renato Vicente",
+      "highlights": [ ]
+    },
+    {
+      "name": "University of São Paulo, São Carlos, Brazil",
+      "position": "Master student",
+      "url": "",
+      "startDate":"2010",
+      "endDate":  "2012",
+      "summary": "Effects of Correlated Hybridization in the Single-Impurity Anderson Model. Supervisor: Prof. Valter Líbero",
+      "highlights": [ ]
+    },
+    {
+      "name": "University of São Paulo, São Carlos, Brazil",
+      "position": "Undergraduate student project",
+      "url": "",
+      "startDate":"2008",
+      "endDate":  "2009",
+      "summary": "Density Functional Theory Applied to the Antiferrimagnetic Heisenberg Model. Supervisor: Prof. Valter Líbero",
       "highlights": [ ]
     }
   ],
