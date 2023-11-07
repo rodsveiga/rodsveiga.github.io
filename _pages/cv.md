@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Education and Research Experience
+title: education and research experience
 nav: true
 nav_order: 4
 cv_pdf: cv.pdf
