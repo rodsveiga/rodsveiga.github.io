@@ -11,26 +11,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Science  Physics
-      institution: University of São Paulo, São Paulo, Brasil
-      year: 2022
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
-    - title: Master of Science, Physics
-      institution: University of São Paulo, São Carlos, Brasil
-      year: 2012
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
         - Description 1.
         - Description 2.
-
-     - title: Bachelor of Science, Physics
-      institution: University of São Paulo, São Carlos, Brasil
-      year: 2009
-      description:
-        - Description 1.
-        - Description 2.
-
 
 - title: Experience
   type: time_table
