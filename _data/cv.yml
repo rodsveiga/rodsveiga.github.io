@@ -13,7 +13,7 @@
   contents:
     - title: Doctor of Science, Physics
       institution: University of São Paulo, São Paulo, Brasil
-      year: 2017-2022
+      year: 2017 - 2022
       description:
         - Description 1.
         - Description 2.
@@ -23,14 +23,14 @@
             - Sub-description 2.
     - title: Master of Science, Physics
       institution: University of São Paulo, São Carlos, Brasil
-      year: 2010-2012
+      year: 2010 - 2012
       description:
         - Description 1.
         - Description 2.
 
      - title: Bachelor of Science, Physics
       institution: University of São Paulo, São Carlos, Brasil
-      year: 2006-2009
+      year: 2006 - 2009
       description:
         - Description 1.
         - Description 2.
