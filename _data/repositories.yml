@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rodsveiga
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rodsveiga/phdiag_sgd
+  - rodsveiga/mc_perceptron
+  - rodsveiga/rbm_flows_ising
+  - rodsveiga/growth_rate
+  - rodsveiga/ICU_demand
