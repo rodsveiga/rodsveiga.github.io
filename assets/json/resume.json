@@ -38,7 +38,7 @@
       "url": "",
       "startDate": "2022",
       "endDate": "",
-      "summary": "<a href='https://search.epfl.ch/?filter=unit&q=SMILS'>SMILS - Lab for Statistical Mechanics of Inference in Large Systems</a>. Supervisor: Prof. Nicolas Macris",
+      "summary": "<a href='https://search.epfl.ch/?filter=unit&q=SMILS'>SMILS - Lab for Statistical Mechanics of Inference in Large Systems</a>. Supervisor: Prof. <a href='https://people.epfl.ch/nicolas.macris'>Nicolas Macris</a>",
       "highlights": [ ]
     },
     {
@@ -47,7 +47,7 @@
       "url": "",
       "startDate": "2021",
       "endDate": "2022",
-      "summary": "<a href='https://www.epfl.ch/labs/idephics/'>IdePHICS - Information, Learning and Physics Lab</a>. Supervisor: Prof. Florent Krzakala",  
+      "summary": "<a href='https://www.epfl.ch/labs/idephics/'>IdePHICS - Information, Learning and Physics Lab</a>. Supervisor: Prof. <a href='https://florentkrzakala.com/'>Florent Krzakala</a>",  
       "highlights": [ ]
     },
     {
@@ -56,7 +56,7 @@
       "url": "",
       "startDate": "2017",
       "endDate": "2022",
-      "summary": "Statistical Physics Analysis of Machine Learning Models. Supervisor: Prof. Renato Vicente",
+      "summary": "Statistical Physics Analysis of Machine Learning Models. Supervisor: Prof. <a href='https://www.ime.usp.br/~rvicente/index.html'>Renato Vicente</a>",
       "highlights": [ ]
     },
     {
@@ -65,7 +65,7 @@
       "url": "",
       "startDate":"2010",
       "endDate":  "2012",
-      "summary": "Effects of Correlated Hybridization in the Single-Impurity Anderson Model. Supervisor: Prof. Valter Líbero",
+      "summary": "Effects of Correlated Hybridization in the Single-Impurity Anderson Model. Supervisor: Prof. <a href='https://www2.ifsc.usp.br/english/personal-page-professor/?codigo=205'>Valter Líbero</a>", 
       "highlights": [ ]
     },
     {
@@ -74,7 +74,7 @@
       "url": "",
       "startDate":"2008",
       "endDate":  "2009",
-      "summary": "Density Functional Theory Applied to the Antiferrimagnetic Heisenberg Model. Supervisor: Prof. Valter Líbero",
+      "summary": "Density Functional Theory Applied to the Antiferrimagnetic Heisenberg Model. Supervisor: Prof. <a href='https://www2.ifsc.usp.br/english/personal-page-professor/?codigo=205'>Valter Líbero</a>",
       "highlights": [ ]
     }
   ],
