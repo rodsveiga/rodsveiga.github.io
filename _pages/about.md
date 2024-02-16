@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a Postdoctoral Researcher at the <a href='https://search.epfl.ch/?filter=unit&q=SMILS'>Lab for Statistical Mechanics of Inference in Large Systems (SMILS)</a> at the <a href='https://www.epfl.ch/en/'>École Polytechnique Fédérale de Lausanne (EPFL)</a> in Switzerland. My research focus is on machine learning theory, particularly at the intersection between statistical physics, high-dimensional statistics, and neural networks.
+I am a Postdoctoral Researcher at the <a href='https://search.epfl.ch/?filter=unit&q=SMILS'>Lab for Statistical Mechanics of Inference in Large Systems (SMILS)</a> at the <a href='https://www.epfl.ch/en/'>École Polytechnique Fédérale de Lausanne (EPFL)</a> in Switzerland. My research focus is on machine learning theory, particularly at the intersection between statistical physics, high-dimensional statistics, random matrix theory, and neural networks.
 
 
 
