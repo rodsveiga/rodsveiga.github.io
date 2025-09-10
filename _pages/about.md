@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher
+subtitle: 
 
 profile:
   align: right
@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-I am a Postdoctoral Researcher at the <a href='https://search.epfl.ch/?filter=unit&q=SMILS'>Lab for Statistical Mechanics of Inference in Large Systems (SMILS)</a> at the <a href='https://www.epfl.ch/en/'>École Polytechnique Fédérale de Lausanne (EPFL)</a> in Switzerland. My research focus is on intersection between machine learning and statistical mechanics.
-
+I am an Assistant Professor in the <a href='https://www.nottingham.ac.uk/mathematics/'>School of Mathematical Sciences at the <a href='https://www.nottingham.ac.uk/'>University of Nottingham. My research lies broadly in machine learning theory, with a particular focus on high-dimensional problems at the intersection of machine learning, statistical inference, and statistical mechanics.
 
 

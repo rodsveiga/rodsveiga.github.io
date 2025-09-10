@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Rodrigo 
 middle_name:
 last_name: Veiga
-email: rodrigo.veiga@epfl.ch
+email: rodrigo.veiga@nottingham.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -86,7 +86,7 @@ osf_id: # your OSF ID
 research_gate_profile: Rodrigo-Veiga
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://people.epfl.ch/rodrigo.veiga
+work_url: https://www.nottingham.ac.uk/mathematics/people/rodrigo.veiga
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
