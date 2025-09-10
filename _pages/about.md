@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the <a href='https://www.nottingham.ac.uk/mathematics/'>School of Mathematical Sciences</a> at the <a href='https://www.nottingham.ac.uk/'>University of Nottingham</a> in the United Kingdom. My research lies broadly in machine learning theory, with a particular focus on high-dimensional problems at the intersection of machine learning, statistical inference, and statistical mechanics.
+I am an Assistant Professor in the <a href='https://www.nottingham.ac.uk/mathematics/'>School of Mathematical Sciences</a> at the <a href='https://www.nottingham.ac.uk/'>University of Nottingham</a>. My research lies broadly in machine learning theory, with a particular focus on high-dimensional problems at the intersection of machine learning, statistical inference, and statistical mechanics.
 
 
 
